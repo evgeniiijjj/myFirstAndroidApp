@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">bank-cards</string>
+    <string name="binlist_net">https://lookup.binlist.net/</string>
+    <string name="bin_iin_caption">Enter the first digits of a card number (BIN/IIN)</string>
+    <string name="show_request_history_title">Request history</string>
+</resources>
